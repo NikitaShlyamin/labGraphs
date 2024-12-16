@@ -80,7 +80,7 @@ public:
             int nodeID = Queue.front();
             Queue.pop();
             nodes[nodeID].state = 2;
-            cout << nodeID + 1 << endl;
+            //cout << nodeID + 1 << endl;
 
             for (int j = 0; j < 7; j++) {
                 if (adjacencyMatrix[nodeID][j] == 1 && nodes[j].state == 0) {
@@ -123,12 +123,10 @@ int main() {
     cout << "Введите номер целевой вершины (1-7): ";
     cin >> req;
     req--;
-
     graph.BFS(0, req);
     graph.printPath(req);
 
     graph.resetStates(); 
-
     graph.DFS(0, req);
     graph.printPath(req);
 

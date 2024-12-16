@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\labGraph\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\main-repo\\labGraphs\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{88365CD5-6714-404E-A1CA-FAFD18B108D3}|labGraph\\labGraph.vcxproj|C:\\Users\\User\\source\\repos\\labGraph\\labGraph\\labGraph.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{88365CD5-6714-404E-A1CA-FAFD18B108D3}|labGraph\\labGraph.vcxproj|C:\\Users\\User\\main-repo\\labGraphs\\labGraph\\labGraph.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{88365CD5-6714-404E-A1CA-FAFD18B108D3}|labGraph\\labGraph.vcxproj|solutionrelative:labGraph\\labGraph.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "labGraph.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\labGraph\\labGraph\\labGraph.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\main-repo\\labGraphs\\labGraph\\labGraph.cpp",
               "RelativeDocumentMoniker": "labGraph\\labGraph.cpp",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\labGraph\\labGraph\\labGraph.cpp",
+              "ToolTip": "C:\\Users\\User\\main-repo\\labGraphs\\labGraph\\labGraph.cpp",
               "RelativeToolTip": "labGraph\\labGraph.cpp",
-              "ViewState": "AgIAAGUAAAAAAAAAAAAowIkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-13T20:45:29.004Z",
               "EditorCaption": ""
